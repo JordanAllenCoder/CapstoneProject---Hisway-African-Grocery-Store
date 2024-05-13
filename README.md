@@ -1,2 +1,3 @@
 # CapstoneProject---Hisway-African-Grocery-Store
+Experience the culmination of our expertise in web development through our capstone project – a website crafted to fulfill our client's unique needs. This project exemplifies our mastery of frontend design, backend functionality, and user experience optimization. From conceptualization to deployment, witness our strategic approach to translating client requirements into a polished, user-centric digital solution.
 Dive into our capstone project to see firsthand how we leverage cutting-edge technologies and industry best practices to bring visions to life in the digital realm.
